@@ -1,0 +1,6 @@
+input 1, 2, 3, 4 of LN298 go to pins 5, 4, 3, 2 of arduino respectively
+
+stepper pin A goes to OUT 4
+stepper pin B goes to OUT 3
+stepper pin C goes to OUT 2
+setpper pin D goes to OUT 1
